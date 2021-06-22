@@ -4,7 +4,7 @@
 
 Submitted by: **Alexis Echano**
 
-Time spent: **5** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## User Stories
 
@@ -26,17 +26,17 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: I didn't encounter any major challenges but there were points where I needed to take a moment and debug to ensure all of the elements and listeners were working properly. Although, the most difficult parts of the app creation were putting buttons in the view and figuring out how to add constraints.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Alexis Echano
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
